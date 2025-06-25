@@ -1,8 +1,41 @@
-# React + Vite
+# 🔐 React Password Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A secure and user-friendly **Password Manager** built using **React**, **Tailwind CSS**, and **localStorage**. It allows users to store, view, and manage their website credentials with ease. Passwords are stored locally and can be edited or deleted with a click.
 
-Currently, two official plugins are available:
+---
+View Website At
+[https://passwm.vercel.app/]
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- ✨ Add and manage multiple website credentials (name, username/email, and password)
+- 🔐 Passwords are hidden by default and can be revealed or copied
+- 🧹 Delete credentials individual
+- 💾 Stored securely in `localStorage`
+- 🎨 Clean, responsive UI built with Tailwind CSS
+
+---
+
+## 🧰 Tech Stack
+
+- ⚛️ React (Functional components + Hooks)
+- 🌬 Tailwind CSS
+- 💾 localStorage for persistence
+- 🔗 React Icons
+
+---
+
+## 📸 Screenshots
+
+![Screenshot 2025-06-25 224702](https://github.com/user-attachments/assets/69c2a824-aaa8-4917-8b4c-3de12ce8c1e6)
+
+
+---
+
+## 📂 Project Structure
+
+
+
+
+![image](https://github.com/user-attachments/assets/b4f5f7e7-b132-459c-898c-72adfe91ba03)
