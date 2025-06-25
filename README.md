@@ -32,10 +32,3 @@ View Website At
 
 
 ---
-
-## 📂 Project Structure
-
-
-
-
-![image](https://github.com/user-attachments/assets/b4f5f7e7-b132-459c-898c-72adfe91ba03)
